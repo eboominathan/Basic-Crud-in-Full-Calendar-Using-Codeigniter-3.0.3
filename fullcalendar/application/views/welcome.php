@@ -1,7 +1,7 @@
 <section>
   <div class="quote">
     <cite>
-   Full Calendar Using Codeigntier 3.0.3 -Boominathan
+   Full Calendar Using Codeigniter 3.0.3 -Boominathan
 
     </cite>
     <br>
