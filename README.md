@@ -1,7 +1,9 @@
-jQuery FullCalendar CRUD
+Jquery FullCalendar CRUD in Codeigniter
 ========================
 Basic CRUD (Create - Read - Update - Delete) functionality on jQuery FullCalendar using Codeigniter 3.0.3.
 
+Demo link 
+<a href="findacode.in/2017/06/25/fullcalendar-in-codeigniter/" target="_blank">Demo</a>
 Dependencies (Included)
 =======================
 1. Twitter Bootstrap
