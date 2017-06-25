@@ -1,0 +1,41 @@
+body {
+                margin: 40px 10px;
+                padding: 0;
+                font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+                font-size: 14px;
+            }
+            .fc th {
+                padding: 10px 0px;
+                vertical-align: middle;
+                background:#F2F2F2;
+            }
+            .fc-day-grid-event>.fc-content {
+                padding: 4px;
+            }
+            #calendar {
+                max-width: 900px;
+                margin: 0 auto;
+            }
+            .error {
+                color: #ac2925;
+                margin-bottom: 15px;
+            }
+            .event-tooltip {
+                width:150px;
+                background: rgba(0, 0, 0, 0.85);
+                color:#FFF;
+                padding:10px;
+                position:absolute;
+                z-index:10001;
+                -webkit-border-radius: 4px;
+                -moz-border-radius: 4px;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 11px;
+
+            }
+            .modal-header
+            {
+                background-color: #3A87AD;
+                color: #fff;
+            }
