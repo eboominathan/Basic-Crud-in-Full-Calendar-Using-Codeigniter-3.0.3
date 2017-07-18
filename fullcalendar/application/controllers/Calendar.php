@@ -11,6 +11,8 @@ class Calendar extends CI_Controller {
         $this->load->model('Calendar_model');
     }
 
+    /*compress*/
+
 
 	/*Home page Calendar view  */
 	Public function index()
